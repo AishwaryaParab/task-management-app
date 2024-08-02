@@ -1,0 +1,39 @@
+.task-list {
+    padding: 20px;
+}
+
+.search {
+    display: flex;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    padding: 10px;
+    gap: 10px;
+}
+
+.search input {
+    outline: none;
+    border: none;
+    width: 100%;
+}
+
+.search input::placeholder {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.add-btn {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-color: #034EA2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.add-icon {
+    color: white;
+}

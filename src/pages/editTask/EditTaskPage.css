@@ -1,0 +1,35 @@
+.edit-task {
+    padding: 40px 20px;
+}
+
+.input-fields {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-fields input {
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.edit-task input::placeholder {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.select-status {
+    height: 37.5;
+    margin: 10px 0;
+    font-family: "Jost", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+}
+
+.actions {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}

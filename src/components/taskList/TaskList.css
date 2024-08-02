@@ -1,0 +1,17 @@
+.list-type {
+    display: flex;
+    background-color: #F3F6F9;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-width: 1px;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Jost", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.status span {
+    font-weight: bold;
+}

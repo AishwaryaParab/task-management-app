@@ -1,0 +1,11 @@
+.status {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.status p {
+    font-family: "Jost", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}

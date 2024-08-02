@@ -1,0 +1,19 @@
+.button {
+    border: 1px solid #034EA2;
+    border-radius: 5px;
+    text-align: center;
+    width: 110px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Jost", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: inherit;
+}
+
+.fill {
+    background-color: #034EA2;
+}
