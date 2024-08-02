@@ -17,3 +17,4 @@ This is a React + Vite app, displaying a list of tasks whose state is managed by
 ## Assumptions
 - By default, the status of the task will be *Pending*.
 - The app is designed for mobile users. Preferably, choose the iPhone 14 Pro Max device (430 x 932).
+- On hover, the ```edit``` and ```delete``` buttons should be visible. On a web app, hover works but for a mobile device, a click is needed to view these buttons.
